@@ -1,0 +1,30 @@
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\Laba9\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\Laba9\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\Laba9\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.AssemblyReference.cache
+E:\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.SuggestedBindingRedirects.cache
+E:\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+E:\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+E:\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
